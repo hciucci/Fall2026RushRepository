@@ -6,10 +6,10 @@ export function Hero() {
     >
       <div className="flex flex-col gap-2">
         <h1 className="font-mono text-4xl font-semibold tracking-tight text-text-primary sm:text-5xl lg:text-6xl">
-          Firstname Lastname
+          Haden Ciucci
         </h1>
         <h2 className="font-mono text-3xl font-semibold text-secondary sm:text-5xl">
-          Computer Science
+          Integrated Information Technology
         </h2>
       </div>
       <p className="max-w-2xl text-lg text-text-secondary sm:text-2xl">
