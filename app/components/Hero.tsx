@@ -13,7 +13,7 @@ export function Hero() {
         </h2>
       </div>
       <p className="max-w-2xl text-lg text-text-secondary sm:text-2xl">
-        Major Year, at the University of South Carolina. I...
+        IIT, Graduating in 2027, at the University of South Carolina. I am passionate about challenging myself to learn as much as I can in many subjects!
       </p>
       <div className="flex flex-wrap gap-3 font-mono text-sm text-text-secondary sm:text-base">
         <a
